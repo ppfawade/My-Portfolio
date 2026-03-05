@@ -1,0 +1,162 @@
+[
+  {
+    "id": "engineer-prompt-lab",
+    "title": "Engineer Prompt Lab",
+    "description": "A web-based playground for experimenting with structured prompts, enabling developers and engineers to design, test, and refine prompt workflows.",
+    "category": "AI / Developer Tool",
+    "tech_stack": ["Prompt Engineering", "AI Tool Design", "UI/UX", "Web App Architecture"],
+    "demo_link": "https://engineer-prompt-lab.vercel.app",
+    "github_link": "https://github.com/ppfawade/engineer-prompt-lab",
+    "featured": true,
+    "overview": "Interactive environment to experiment with structured prompts and prompt engineering workflows.",
+    "problem": "Engineers and developers struggle to design, test, and refine complex prompt workflows efficiently.",
+    "solution": "Built a dedicated playground for structured prompt engineering with real-time feedback.",
+    "workflow": [
+      "Designed prompt structure schema",
+      "Built interactive UI for prompt testing",
+      "Integrated AI API for real-time validation",
+      "Deployed for public use"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://engineer-prompt-lab.vercel.app"
+  },
+  {
+    "id": "tolstack-pro2",
+    "title": "TolStack Pro2",
+    "description": "Tolerance stack-up analysis tool for mechanical engineers to evaluate dimensional variation in assemblies.",
+    "category": "Mechanical Engineering Tool",
+    "tech_stack": ["Engineering Computation", "Visualization", "Web Tool Design"],
+    "demo_link": "https://tol-stack-pro2.vercel.app",
+    "github_link": "https://github.com/ppfawade/tolstack-pro2",
+    "featured": true,
+    "overview": "Engineering calculator for tolerance stack-up analysis in mechanical design.",
+    "problem": "Mechanical engineers often perform tolerance stack calculations manually or with spreadsheets, which is error-prone.",
+    "solution": "A web-based interactive tool that visualizes tolerance accumulation instantly.",
+    "workflow": [
+      "Defined tolerance calculation logic",
+      "Created interactive dimension table editor",
+      "Implemented stack-up visualization",
+      "Optimized for engineering accuracy"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://tol-stack-pro2.vercel.app"
+  },
+  {
+    "id": "safer-highways-india",
+    "title": "Safer Highways India",
+    "description": "A civic-tech awareness platform presenting highway safety issues and solutions using clear information design and data-driven storytelling.",
+    "category": "Public Safety / Civic Tech",
+    "tech_stack": ["Data Presentation", "UX Storytelling", "Information Design"],
+    "demo_link": "https://safer-highways-india.vercel.app",
+    "github_link": "https://github.com/ppfawade/safer-highways-india",
+    "featured": false,
+    "overview": "Awareness platform highlighting highway safety issues and solutions for India.",
+    "problem": "Road safety data is often inaccessible or poorly presented to the public.",
+    "solution": "Created a data-driven storytelling platform to visualize safety issues and propose solutions.",
+    "workflow": [
+      "Gathered road safety data",
+      "Designed data visualizations",
+      "Built interactive storytelling components",
+      "Launched awareness campaign"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://safer-highways-india.vercel.app"
+  },
+  {
+    "id": "gdt-mechanical-design",
+    "title": "GD&T Mechanical Design",
+    "description": "An educational web resource explaining geometric dimensioning and tolerancing concepts for mechanical engineering learners.",
+    "category": "Mechanical Engineering Education",
+    "tech_stack": ["Engineering Knowledge Transfer", "Technical UI Design"],
+    "demo_link": "https://gdt-mech-design.vercel.app",
+    "github_link": "https://github.com/ppfawade/gdt-mech-design",
+    "featured": false,
+    "overview": "Learning resource explaining GD&T concepts for mechanical engineers.",
+    "problem": "GD&T concepts are complex and often taught through static textbooks.",
+    "solution": "Developed an interactive web resource to explain geometric dimensioning concepts visually.",
+    "workflow": [
+      "Curated GD&T curriculum",
+      "Designed interactive diagrams",
+      "Built responsive learning interface",
+      "Published for engineering students"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://gdt-mech-design.vercel.app"
+  },
+  {
+    "id": "markdown-converter",
+    "title": "Markdown Converter",
+    "description": "A lightweight developer utility that converts markdown content into publish-ready formats.",
+    "category": "Developer Utility",
+    "tech_stack": ["Text Processing", "Developer Tools", "UI Simplicity"],
+    "demo_link": "https://md-converter-ivory.vercel.app",
+    "github_link": "https://github.com/ppfawade/markdown-converter",
+    "featured": false,
+    "overview": "Tool for converting markdown content into different formats for publishing workflows.",
+    "problem": "Converting markdown to other formats often requires complex CLI tools.",
+    "solution": "Created a simple web-based converter for quick format transformation.",
+    "workflow": [
+      "Implemented markdown parsing logic",
+      "Built clean input/output interface",
+      "Added support for multiple export formats",
+      "Deployed as a utility tool"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://md-converter-ivory.vercel.app"
+  },
+  {
+    "id": "sysml-lite",
+    "title": "SysML Lite",
+    "description": "A simplified educational interface for learning SysML modeling concepts used in systems engineering.",
+    "category": "Systems Engineering",
+    "tech_stack": ["Systems Engineering", "Knowledge Architecture"],
+    "demo_link": "https://sysml-lite.vercel.app",
+    "github_link": "https://github.com/ppfawade/sysml-lite",
+    "featured": false,
+    "overview": "Lightweight educational reference for understanding SysML modeling concepts.",
+    "problem": "SysML tools are heavy and complex for beginners to understand core concepts.",
+    "solution": "Built a lightweight reference guide for SysML modeling elements.",
+    "workflow": [
+      "Structured SysML concepts",
+      "Designed simplified diagrams",
+      "Created navigable reference UI",
+      "Released for systems engineers"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://sysml-lite.vercel.app"
+  },
+  {
+    "id": "route-planner",
+    "title": "Route Planner",
+    "description": "An interactive route planning application designed to simplify travel path exploration and trip preparation.",
+    "category": "Travel / Productivity",
+    "tech_stack": ["Map UX Design", "Interaction Design", "Web App Development"],
+    "demo_link": "https://route-planner-nine.vercel.app",
+    "github_link": "https://github.com/ppfawade/route-planner",
+    "featured": false,
+    "overview": "Web application for planning routes and optimizing travel paths.",
+    "problem": "Planning complex travel routes often involves juggling multiple map tools.",
+    "solution": "Integrated route planning and optimization into a single interactive map interface.",
+    "workflow": [
+      "Integrated map API",
+      "Implemented route optimization algorithm",
+      "Designed travel planning UI",
+      "Tested with real travel scenarios"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://route-planner-nine.vercel.app"
+  },
+  {
+    "id": "lumidisplay",
+    "title": "LumiDisplay",
+    "description": "A sandbox project exploring modern UI components and interactive display patterns.",
+    "category": "UI / Frontend Sandbox",
+    "tech_stack": ["Frontend Architecture", "Component Design"],
+    "demo_link": "https://lumidisplay.vercel.app",
+    "github_link": "https://github.com/ppfawade/lumidisplay",
+    "featured": false,
+    "overview": "Experimental environment for testing modern UI components and display concepts.",
+    "problem": "Testing new UI concepts in production apps is risky and slow.",
+    "solution": "Created a dedicated sandbox for experimenting with cutting-edge UI patterns.",
+    "workflow": [
+      "Set up component playground",
+      "Implemented experimental UI patterns",
+      "Documented component usage",
+      "Showcased interactive demos"
+    ],
+    "image": "https://image.thum.io/get/width/800/crop/800/https://lumidisplay.vercel.app"
+  }
+]
